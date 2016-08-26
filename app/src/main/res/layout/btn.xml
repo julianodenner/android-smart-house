@@ -1,0 +1,11 @@
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/btn_size"
+    android:layout_height="@dimen/btn_size"
+    android:layout_margin="@dimen/btn_margin"
+    android:background="@drawable/light_off_bitmap"
+    android:gravity="bottom|center_horizontal"
+    android:padding="@dimen/btn_padding"
+    android:text="@string/app_name"
+    android:textAlignment="gravity"
+    android:textColor="@color/textColor"
+    android:textSize="@dimen/btn_text" />
