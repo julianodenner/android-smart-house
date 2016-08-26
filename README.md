@@ -1,4 +1,4 @@
-﻿<h1><img src="http://jdenner.com/resources/android-smarthouse-logo.png" alt="SmartHouse"></h1>
+﻿<h1><img src="http://jdenner.com/resources/android-smarthouse-logo.png" alt="Logo">SmartHouse</h1>
 <p>Autor: Juliano Denner da Rocha<br>E-mail: jdenner@outlook.com</p>
 <p>Aplicação desenvolvida como material de apoio ao aprendizado de programação para Android. É fornecida gratuitamente "no estado em que se encontra", isentando o autor de qualquer garantia ou danos que possam resultar do uso da mesma.</p>
 <p>Ferramentas utilizadas:
