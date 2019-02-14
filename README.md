@@ -10,4 +10,4 @@
   </ul>
 </p>
 <p>Pré-visualização:</p>
-<img src="http://jdenner.com/resources/android-smarthouse1.png" alt="Pré-visualização abertura">
+<img src="http://jdenner.com/github/android-smarthouse1.png" alt="Pré-visualização abertura">
